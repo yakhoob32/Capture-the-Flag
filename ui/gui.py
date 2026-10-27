@@ -14,7 +14,7 @@ pygame.mixer.init()
 # --- 2. Constants & Settings ---
 WIDTH, HEIGHT = 800, 600
 SCREEN = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Super Stratego Elite")
+pygame.display.set_caption("CTF")
 
 # Colors
 WHITE = (255, 255, 255)
